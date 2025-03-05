@@ -1,14 +1,5 @@
----
-title: Ai News Provider
-emoji: 📊
-colorFrom: blue
-colorTo: blue
-sdk: gradio
-sdk_version: 5.17.0
-app_file: app.py
-pinned: false
-license: mit
-short_description: Gives summarized news
----
+AI News Provider
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+AI News Provider is a tool that scrapes content from websites, summarizes the key information into 100 words, and displays it in a scroll card format. It uses Gradio for a seamless user experience, making it easy to browse summarized news efficiently.
+
+Check it out here: AI News Provider on Hugging Face
