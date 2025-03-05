@@ -1,0 +1,5 @@
+torch
+transformers
+requests
+gradio
+beautifulsoup4
